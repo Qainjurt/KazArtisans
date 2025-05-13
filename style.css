@@ -1,0 +1,42 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fdfaf6;
+  text-align: center;
+}
+
+header {
+  background: #bca77b;
+  padding: 20px;
+  color: #fff;
+}
+
+.logo {
+  width: 100px;
+}
+
+.product {
+  margin: 30px;
+}
+
+.product img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #407f46;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+footer {
+  background: #eee;
+  padding: 15px;
+  font-size: 14px;
+}
